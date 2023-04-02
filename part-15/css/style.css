@@ -1,3 +1,4 @@
-body{
-    background: #000 url('../assets/tree.jpg') no-repeat top center / 200px auto;
+ul{
+    list-style-image: url('../assets/tic.png'); 
+    list-style-position: inside;
 }
