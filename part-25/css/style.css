@@ -1,0 +1,6 @@
+h2::before{
+    content: url(../assets/str.png);
+}
+h2::after{
+    content: url(../assets/str.png);
+}
